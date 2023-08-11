@@ -28,8 +28,8 @@ O arquivo `style.css` é usado para importar todos esses arquivos CSS separados 
 ## Tipografia
 
 O projeto utiliza a fonte "Fira Sans" para fornecer uma aparência moderna e legível em todo o site.
-Estou utilizando apenas as fontes FiraSans-Bold e FiraSans-Regular
-- link do google fonts (https://fonts.google.com/specimen/Fira+Sans?query=fira+sans)
+Estou utilizando apenas as fontes FiraSans-Bold 700 e FiraSans-Regular 400
+ - link do google fonts (https://fonts.google.com/specimen/Fira+Sans?query=fira+sans)
 
 ## Layout Responsivo
 
